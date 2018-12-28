@@ -5,7 +5,7 @@ Much of the scripts are inspired from the works of Dr. Adrian Rosebrock.
 
 The following files contain
 
-1. Vaninlla_GD.py - a numpy implementation of basic(vanilla) gradient descent
+1. Vanilla_GD.py - a numpy implementation of basic(vanilla) gradient descent
 
 2. SGD.py - a numpy implementation of Stochastic Gradient Descent. 
 
